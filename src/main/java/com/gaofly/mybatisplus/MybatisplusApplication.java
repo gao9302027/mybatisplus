@@ -8,7 +8,6 @@ public class MybatisplusApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MybatisplusApplication.class, args);
-        System.out.println("hot-fix");
     }
 
 }
